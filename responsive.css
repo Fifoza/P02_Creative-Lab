@@ -1,0 +1,38 @@
+
+
+
+
+@media all and (min-width: 640px) and (max-width: 980px) {
+
+
+
+body {
+    background: red;
+}
+
+    #wrapper>header>nav>{
+        display: block;
+        
+    }
+}
+
+
+
+
+
+
+
+
+@media all and (max-width: 479px) {
+
+
+body {
+
+    background: green;
+}
+
+clear: both;
+
+
+
+}
